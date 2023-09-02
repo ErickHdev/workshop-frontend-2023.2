@@ -1,1 +1,2 @@
-# workshop-frontend-2023.2
+# Projeto StarWars - Fábrica de software
+[StarWarsLogo](./projeto-starwars/public/starwars-logo.png
