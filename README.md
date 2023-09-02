@@ -1,2 +1,2 @@
 # Projeto StarWars - Fábrica de software
-![StarWarsLogo](./projeto-starwars/public/starwars-logo.png)
+![StarWarsLogo](./projeto-starwars/public/Star_Wars_Logo.svg.png)
