@@ -11,3 +11,7 @@ API: "https://swapi.dev/api/people/"
 - JavaScript / React
 - Vite
 - Css
+
+### Referências 
+- <a href="https://cgreinhold.dev/2021/05/20/star-wars/">CSS Star Wars</a>
+- <a href="https://www.expressvpn.com/pt/blog/dia-de-star-wars-todos-os-filmes-e-series-de-star-wars-em-ordem-cronologica/"> Dia de Star Wars </a>
