@@ -1,7 +1,7 @@
-import  "./MainPage.css";
 import Header from "../components/Header";
 import StarWarsLogo from "/Star_Wars_Logo.svg.png";
 import starWarsTimeLine from "/timeline.png";
+import  "./MainPage.css";
 
 
 export default function MainPage() {
@@ -17,7 +17,7 @@ export default function MainPage() {
                         <div>
                             <h3 id="fala-darth" className="blue-font">“Eu sou seu pai.”</h3>
                         </div>
-                        <div className="texto-main blue-font">
+                        <div className="blue-font texto-main">
                             <p>
                                 É uma simples frase, mas para fãs ao redor do mundo, ela faz alusão a uma batalha eterna entre o bem e o mal em uma galáxia distante. Ela evoca imagens de naves espaciais em lutas acompanhadas pelo som distinto de lasers, de guerras sendo travadas em planetas verdejantes ou em paisagens desérticas entre inúmeras raças.
                             </p>
