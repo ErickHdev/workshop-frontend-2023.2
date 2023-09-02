@@ -1,5 +1,5 @@
 # Projeto StarWars - Fábrica de software
-![StarWarsLogo](./projeto-starwars/public/Star_Wars_Logo.svg.png)
+<img src="./projeto-starwars/public/Star_Wars_Logo.svg.png" width="200px"/>
 
 
 ##Sobre o projeto
